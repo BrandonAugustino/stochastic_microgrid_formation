@@ -1,5 +1,5 @@
 # stochastic_microgrid_formation
-This repository contains Python scripts for the Stochastic microgrid formation herustic presented in "A Heuristic Approach to the Post-disturbance and Stochastic Pre-disturbance Microgrid Formation Problem" by Kwami S. A. Sedzro, Xin Shi, Alberto J. Lamadrid and Luis F. Zuluaga. Currently there are  files in the repository. 
+This repository contains Python scripts for the Stochastic microgrid formation herustic presented in "A Heuristic Approach to the Post-disturbance and Stochastic Pre-disturbance Microgrid Formation Problem" by Kwami S. A. Sedzro, Xin Shi, Alberto J. Lamadrid and Luis F. Zuluaga. Currently there are 7 files in the repository. 
 
 1) "simulation_new.py" is used to generate potential scenarios according to the generation scheme described in the paper.
 2) "MILP.py" is the python code for the MILP formulation
